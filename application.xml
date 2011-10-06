@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>ImageGallery</Entry>
+    <Name>
+        <English>ImageGallery</English>
+        <eng-GB>ImageGallery</eng-GB>
+    </Name>
+    <Vendor>Dr Strangecode</Vendor>
+    <Description>Tutorial on the Gallery control in Bada</Description>
+    <Icons>
+        <MainMenu>ImageGallery_type4.png<Type1/>
+            <Type2>ImageGallery_type2.png</Type2>
+            <Type3>ImageGallery_type3.png</Type3>
+            <Type4>ImageGallery_type4.png</Type4>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2>Splash_type2.png</Type2>
+            <Type3>Splash_type3.png</Type3>
+            <Type4>Splash_type4.png</Type4>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+</Application>
